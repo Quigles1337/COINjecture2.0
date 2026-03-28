@@ -35,7 +35,7 @@ hex.workspace = true
 base64 = "0.22"
 
 # System info for energy measurement
-sysinfo = "0.31"
+sysinfo = "0.38"
 
 # Logging
 tracing.workspace = true
