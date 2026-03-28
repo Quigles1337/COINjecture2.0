@@ -14,7 +14,7 @@ coinject-rpc = { path = "../rpc" }
 
 # CLI framework
 clap = { version = "4.5", features = ["derive", "cargo"] }
-colored = "2.1"
+colored = "3.1"
 
 # Crypto
 ed25519-dalek = "2.1"
